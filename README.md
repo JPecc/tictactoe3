@@ -28,11 +28,11 @@ Ending the Game:
 
     If a player wins, the game ends immediately, and the winner is announced.
     If all spaces are filled and no one has won, the game is a tie.
+    press 'n' to end the game.
 
 How to Reset:
 
-    Once the game ends, you can start a new game by resetting the board by pressing y, and players can take turns to play again.
-    If you do not want to play again, press n.
+    Once the game ends, you can start a new game by resetting the board by pressing 'y', and players can take turns to play again.
 
 
 
